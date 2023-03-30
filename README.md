@@ -37,13 +37,13 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 ***In order to clone the project via HTTPS, run this command:***
 
 ```
-$>gh repo clone shashikantkaushik/Home_Service_app
+$>gh gh repo clone shashikantkaushik/dice-flutter
 ```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
 ```
-$> git@github.com:shashikantkaushik/Home_Service_app.git
+$> git@github.com:shashikantkaushik/dice-flutter.git
 ```
 
 **Install dependencies**
@@ -63,7 +63,7 @@ $> flutter run
 
 ## :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Dicee](https://github.com/shashikantkaushik/Home_Service_app/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/0fd685cf10e86a234fde5e249208d79ec8165472/CONTRIBUTING.md) to find out about the coding standards.
+Feel free to **file a new issue** with a respective title and description on the [Dicee](https://github.com/shashikantkaushik/dice-flutter/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/0fd685cf10e86a234fde5e249208d79ec8165472/CONTRIBUTING.md) to find out about the coding standards.
 
 <br>
 
