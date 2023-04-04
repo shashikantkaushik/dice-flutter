@@ -1,4 +1,4 @@
-
+ 
 # Dicee 🎲
  
 ## Our Goal 
@@ -75,7 +75,7 @@ Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaus
 <br>
 
 ## :closed_book: License
-Not Release Yet
+Not Release Yet.
 
 
 <br>
