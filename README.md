@@ -75,7 +75,7 @@ Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaus
 <br>
 
 ## :closed_book: License
-Not Release Yet.
+Not Released Yet
 
 
 <br>
