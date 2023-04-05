@@ -9,13 +9,13 @@
 The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
 
-## What you will create
+## What we will create
 
 We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
-## What you will learn
+## What we will learn
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
@@ -28,34 +28,36 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 - Code and use gesture controls.
 
 
+<br>
+
+## :construction_worker: Installation
+
 
 ***In order to clone the project via HTTPS, run this command:***
-### Clone the repository
 
-```bash
-# clone and change directory
-git clone https://github.com/sethbergman/JavaScript-Drum-Kit.git && cd JavaScript-Drum-Kit
+```
+$>gh repo clone shashikantkaushik/destini-flutter-app
 ```
 
-### Install dependencies
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
-```bash
-npm i
-# or use yarn
-yarn
+```
+$> git@github.com:shashikantkaushik/destini-flutter-app.git
 ```
 
-### Start the application
+**Install dependencies**
 
-```bash
-npm start
-# or
-yarn start
+```
+$> flutter install
 ```
 
-### Jam out :smiley:
+**Start development server**
 
-Navigate to [localhost:5000](http://localhost:5000) and have fun!
+```
+$> flutter run
+```
+
+
 ```
 
 <br>
