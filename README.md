@@ -1,6 +1,5 @@
  
-# Dicee 🎲
- 
+
 
 # Dicee 🎲
 
@@ -36,13 +35,13 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 ***In order to clone the project via HTTPS, run this command:***
 
 ```
-$>gh repo clone shashikantkaushik/destini-flutter-app
+$>gh repo clone shashikantkaushik/dice-flutter
 ```
 
 SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
 ```
-$> git@github.com:shashikantkaushik/destini-flutter-app.git
+$> git@github.com:shashikantkaushik/dice-flutter.git
 ```
 
 **Install dependencies**
