@@ -1,49 +1,32 @@
  
 # Dicee 🎲
  
-# HTML/CSS/JS & DOM - Drum Kit
 
-- [About this project](#about)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Technical Information](#technical_information)
+# Dicee 🎲
 
-<a name="about"></a>
-## About
-In this code along I updated the provided starter files using
-HTML, CSS, and Javascript
+## Our Goal
 
-<a name="features"></a>
-## Features
-- [x] HTML
-- [x] CSS
-- [x] Javascript
-
-<a name="requirements"></a>
-## Requirements
-- HTML
-- CSS
-- Javascript
-
-<a name="technical_information"></a>
-## Technical Information
-
-To run the site on your local machine
-
-1. Download or clone the repository onto your machine.
-2. Extract the .zip file.
-3. Open .html file in your browser.
-5. Alternatively you can click on the following [Site Link]("https://shashikantkaushik.github.io/drum_kit_web_dev/") to view.
+The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
 
-<br>  
+## What you will create
 
-## 🚀 Preview
-![img](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-<br>
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
-## :construction_worker: Installation
+## What you will learn
+
+- How to use Flutter stateless widgets to design the user interface.
+- How to use Flutter stateful widgets to update the user interface.
+- How to change the properties of various widgets.
+- How to use onPressed listeners to detect when buttons are pressed.
+- How to use setState to mark the widget tree as dirty and requiring update on the next render.
+- How to use Expanded to make widgets adapt to screen dimensions.
+- Understand and use string interpolation.
+- Learn about basic dart programming concepts such as data types and functions.
+- Code and use gesture controls.
+
 
 
 ***In order to clone the project via HTTPS, run this command:***
