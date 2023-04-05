@@ -1,29 +1,40 @@
  
 # Dicee 🎲
  
-## Our Goal 
+# HTML/CSS/JS & DOM - Drum Kit
 
-The objective of this is to introduce you to the core programming concepts that will form the foundation of most of the apps we’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
+- [About this project](#about)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Technical Information](#technical_information)
 
+<a name="about"></a>
+## About
+In this code along I updated the provided starter files using
+HTML, CSS, and Javascript
 
-## What we will create
+<a name="features"></a>
+## Features
+- [x] HTML
+- [x] CSS
+- [x] Javascript
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+<a name="requirements"></a>
+## Requirements
+- HTML
+- CSS
+- Javascript
 
+<a name="technical_information"></a>
+## Technical Information
 
+To run the site on your local machine
 
+1. Download or clone the repository onto your machine.
+2. Extract the .zip file.
+3. Open .html file in your browser.
+5. Alternatively you can click on the following [Site Link]("https://shashikantkaushik.github.io/drum_kit_web_dev/") to view.
 
-## What we will learn
-
-- How to use Flutter stateless widgets to design the user interface.
-- How to use Flutter stateful widgets to update the user interface.
-- How to change the properties of various widgets.
-- How to use onPressed listeners to detect when buttons are pressed.
-- How to use setState to mark the widget tree as dirty and requiring update on the next render.
-- How to use Expanded to make widgets adapt to screen dimensions.
-- Understand and use string interpolation.
-- Learn about basic dart programming concepts such as data types and functions.
-- Code and use gesture controls.
 
 <br>  
 
@@ -36,27 +47,32 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 
 ***In order to clone the project via HTTPS, run this command:***
+### Clone the repository
 
-```
-$>gh gh repo clone shashikantkaushik/dice-flutter
-```
-
-SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
-
-```
-$> git@github.com:shashikantkaushik/dice-flutter.git
+```bash
+# clone and change directory
+git clone https://github.com/sethbergman/JavaScript-Drum-Kit.git && cd JavaScript-Drum-Kit
 ```
 
-**Install dependencies**
+### Install dependencies
 
-```
-$> flutter install
+```bash
+npm i
+# or use yarn
+yarn
 ```
 
-**Start development server**
+### Start the application
 
+```bash
+npm start
+# or
+yarn start
 ```
-$> flutter run
+
+### Jam out :smiley:
+
+Navigate to [localhost:5000](http://localhost:5000) and have fun!
 ```
 
 <br>
