@@ -70,7 +70,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 ## :tada: Contributing
 
-Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaushik/blob/0fd685cf10e86a234fde5e249208d79ec8165472/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
 <br>
 
